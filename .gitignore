@@ -1,0 +1,24 @@
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers de config sensibles
+.env
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Fichiers temporaires d'éditeur
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs éventuels
+*.log
+
+# Jupyter (si jamais)
+.ipynb_checkpoints/
